@@ -1,5 +1,3 @@
-md\_document: variant: markdown\_github
-
 On April 21st and 22nd of 2016, we had 40 members of the R community gather in Brisbane, Australia, with the goal of reproducing the rOpensci Unconference events that have been running with great success in San Francisco since 2014. Like every event organisers ever, we went through the usual crisis: Where will it be? Will anyone actually show up? Is the problem space over venue, date, attendees, catering, sponsors convex? It it even possible to organise an event by only uttering TRUE statements?
 
 It ain't easy being green. The fact that back in December 2015 Karthik Ram agreed to a proposal to essentially franchise the rOpensci unconference to a few junior researchers he’d never heard of, from a place a long way away, with enthusiasm for rOpensci’s ideals as their only redeeming qualities, still astounds us. More than that, it speaks volumes about the accessibility of this community to anyone that believes in what it stands for.
